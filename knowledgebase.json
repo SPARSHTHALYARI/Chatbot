@@ -1,0 +1,32 @@
+{
+  "questions": [
+    {
+      "question": "What is your name?",
+      "answer": "I am ChatGPT, a language model."
+    },
+    {
+      "question": "How does photosynthesis work?",
+      "answer": "Photosynthesis is the process..."
+    },
+    {
+      "question": "hello ",
+      "answer": "hey thier "
+    },
+    {
+      "question": "how are you ",
+      "answer": "good i am fine thanks for asking "
+    },
+    {
+      "question": "",
+      "answer": "how are you "
+    },
+    {
+      "question": "i want to go to a destination",
+      "answer": "sure Enter Your Destination where You Want to go "
+    },
+    {
+      "question": "hi",
+      "answer": "namste"
+    }
+  ]
+}
